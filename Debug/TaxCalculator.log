@@ -1,0 +1,3 @@
+﻿  consolePrinter.cpp
+C:\Users\bkfyt\source\repos\TaxCalculator\TaxCalculator\consolePrinter.cpp(26,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TaxCalculator.vcxproj -> C:\Users\bkfyt\source\repos\TaxCalculator\Debug\TaxCalculator.exe
